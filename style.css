@@ -1,0 +1,44 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+#basic{
+	width: 400px;
+	height: 950px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+#basic input{
+	height: 20px;
+}
+
+#basic p, #basic p input, #basic input{
+	margin: 5px;
+}
+#describe{
+	display: block;
+
+}
+#describe input{
+	width: 200px;
+	height: 150px;
+	display: block;
+}
+.card{
+	text-align: center;
+	width: 275px;
+	height: 150px;
+	display: inline-block;
+	vertical-align: top;
+	border: 3px solid black;
+}
+.card h3{
+	display: none;
+}
+#con_card{
+	width: 380px;
+	display: inline-block;
+	vertical-align: top;
+}
